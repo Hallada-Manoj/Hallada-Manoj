@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Manoj 👋
 
-<!--
-**Hallada-Manoj/Hallada-Manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist & Machine Learning Engineer passionate about building data-driven solutions using Python, SQL, Machine Learning, and Power BI.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Machine Learning
+- Power BI
+- Pandas
+- NumPy
+- Scikit-Learn
+
+## 📊 Featured Projects
+
+### Telco Churn Analysis
+End-to-end customer churn prediction using SQL, Power BI and Machine Learning.
+
+### Sales Performance Dashboard
+Interactive business dashboard built using SQL and Power BI.
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Recommendation Systems
+
+## 📫 Connect With Me
+
+Email: halladamanoj4@gmail.com
