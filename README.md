@@ -2,6 +2,10 @@
 
 Aspiring Data Scientist & Machine Learning Engineer passionate about building data-driven solutions using Python, SQL, Machine Learning, and Power BI.
 
+## 📈 GitHub Stats
+
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hallada-Manoj&show_icons=true&theme=tokyonight)
+
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
