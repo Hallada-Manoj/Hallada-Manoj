@@ -2,8 +2,6 @@
 
 Aspiring Data Scientist & Machine Learning Engineer passionate about building data-driven solutions using Python, SQL, Machine Learning, and Power BI.
 
-## 🚀 Skills
-
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
