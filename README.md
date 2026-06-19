@@ -1,6 +1,14 @@
 # Hi, I'm Manoj 👋
 
-Aspiring Data Scientist & Machine Learning Engineer passionate about building data-driven solutions using Python, SQL, Machine Learning, and Power BI.
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science Engineering
+- 📊 Aspiring Data Analyst & Data Scientist
+- 🤖 Interested in Machine Learning, NLP and AI
+- 📈 Building end-to-end data projects using Python, SQL and Power BI
+- 🌱 Currently learning Advanced Machine Learning
+
+Aspiring Data Analyst & Data Scientist passionate about building data-driven solutions using Python, SQL, Machine Learning, and Power BI.
 
 ## 🚀 Tech Stack
 
