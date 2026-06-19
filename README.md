@@ -26,19 +26,24 @@ Passionate about developing machine learning solutions and leveraging data to so
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-### Telco Churn Analysis
-End-to-end customer churn prediction using SQL, Power BI and Machine Learning.
+### 📊 Sales Performance Dashboard
+Built an interactive Power BI dashboard to analyze sales trends, profitability, and regional performance using SQL and Power BI.
 
-### Sales Performance Dashboard
-Interactive business dashboard built using SQL and Power BI.
+### 📉 Telco Churn Analysis
+Developed a machine learning model to predict customer churn and identify key factors influencing customer retention.
+
+### 🏥 Insurance Cost Prediction
+Built a Decision Tree Regression model to predict medical insurance charges using Scikit-Learn pipelines and preprocessing techniques.
 
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning
-- Recommendation Systems
+- Deep Learning
+- Natural Language Processing (NLP)
+- MLOps and Model Deployment
 
 ## 📫 Connect With Me
 
-Email: halladamanoj4@gmail.com
+📧 Email: halladamanoj4@gmail.com
