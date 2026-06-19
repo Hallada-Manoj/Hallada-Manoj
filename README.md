@@ -3,12 +3,12 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering
-- 📊 Aspiring Data Analyst & Data Scientist
-- 🤖 Interested in Machine Learning, NLP and AI
-- 📈 Building end-to-end data projects using Python, SQL and Power BI
-- 🌱 Currently learning Advanced Machine Learning
+- 🤖 Aspiring Data Scientist & Machine Learning Enthusiast
+- 📚 Interested in Machine Learning, Deep Learning, NLP and AI
+- 📈 Building end-to-end machine learning projects using Python, SQL and Power BI
+- 🌱 Currently learning Advanced Machine Learning and Deep Learning
 
-Aspiring Data Analyst & Data Scientist passionate about building data-driven solutions using Python, SQL, Machine Learning, and Power BI.
+Passionate about developing machine learning solutions and leveraging data to solve real-world problems through predictive modeling, analytics, and AI.
 
 ## 🚀 Tech Stack
 
